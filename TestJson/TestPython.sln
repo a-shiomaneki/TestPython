@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TestJson", "TestPython\TestJson.pyproj", "{6B6C16C7-BB39-4685-B8AD-9BEA2E2E669A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TestSqlite3", "TestSqlite3\TestSqlite3.pyproj", "{319C5F5E-1C73-4F77-A7DE-D1CE2A850EFF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TestLogger", "TestLogger\TestLogger.pyproj", "{89C082E3-CC6D-4965-A46F-6DFEB14AC914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B6C16C7-BB39-4685-B8AD-9BEA2E2E669A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6C16C7-BB39-4685-B8AD-9BEA2E2E669A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319C5F5E-1C73-4F77-A7DE-D1CE2A850EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319C5F5E-1C73-4F77-A7DE-D1CE2A850EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C082E3-CC6D-4965-A46F-6DFEB14AC914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C082E3-CC6D-4965-A46F-6DFEB14AC914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
